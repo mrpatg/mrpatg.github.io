@@ -284,3 +284,15 @@ p {
 }
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
+.portfolio-section{
+    background: #555;
+    padding: 10px;
+    font-size: 14px;
+    color: #fff;
+    text-align: left;
+    margin-bottom: 30px;
+}
+.portfolio-section a{
+    color:#fff;
+    font-weight:bold;
+}
